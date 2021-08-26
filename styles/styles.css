@@ -33,3 +33,14 @@ footer {
     background-color: #FAF0EA;
     padding: 10px;
 }
+
+main {
+    display:grid;
+    grid-template-columns: 150px auto 150px 25px 1fr;
+    grid-auto-rows: min-content;
+    grid-gap: 20px;
+}
+
+section {
+    display: contents;
+}

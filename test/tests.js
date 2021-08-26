@@ -3,7 +3,6 @@ import { add } from '../calculator.js';
 
 const test = QUnit.test;
 
-
 // name your test by what it is testing
 test('add two numbers', (expect) => {
     //Arrange
